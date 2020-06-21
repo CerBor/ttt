@@ -24,3 +24,4 @@ cb.color();
 ```javascript
 "", "", "", "", "", "", "", "", "", ""
 ```
+https://img.shields.io/apm/l/:CerBor/cb-color
