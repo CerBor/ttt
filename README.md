@@ -6,7 +6,7 @@ This is simple library to help you with colors
 
 # Installation
 
-```npm
+```php
 npm i cb-colors --save
 ```
 
