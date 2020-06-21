@@ -24,4 +24,4 @@ cb.color();
 ```javascript
 "", "", "", "", "", "", "", "", "", ""
 ```
-https://img.shields.io/apm/l/:CerBor/cb-color
+![license](https://img.shields.io/badge/license%3A-ISC-%2319ff6)
