@@ -6,7 +6,7 @@ This is simple library to help you with colors
 
 # Installation
 
-```javascript
+```
 npm i cb-colors --save
 ```
 
