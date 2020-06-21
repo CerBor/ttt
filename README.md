@@ -6,9 +6,7 @@ This is simple library to help you with colors
 
 # Installation
 
-```
-npm i cb-colors --save
-```
+`npm i cb-colors --save`
 
 ## Options
 ```javascript
